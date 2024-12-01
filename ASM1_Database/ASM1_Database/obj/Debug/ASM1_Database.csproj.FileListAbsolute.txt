@@ -1,0 +1,37 @@
+C:\Users\PC\source\repos\ASM1_Database\ASM1_Database\bin\Debug\ASM1_Database.exe.config
+C:\Users\PC\source\repos\ASM1_Database\ASM1_Database\bin\Debug\ASM1_Database.exe
+C:\Users\PC\source\repos\ASM1_Database\ASM1_Database\bin\Debug\ASM1_Database.pdb
+C:\Users\PC\source\repos\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.FormLogin.resources
+C:\Users\PC\source\repos\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.FormRegister.resources
+C:\Users\PC\source\repos\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.Properties.Resources.resources
+C:\Users\PC\source\repos\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.exe
+C:\Users\PC\source\repos\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.pdb
+C:\Users\PC\source\repos\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.Form1.resources
+C:\Users\PC\source\repos\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.Manage_Table.resources
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\bin\Debug\ASM1_Database.exe.config
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\bin\Debug\ASM1_Database.exe
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\bin\Debug\ASM1_Database.pdb
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.FormLogin.resources
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.FormRegister.resources
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.Manage_Table.resources
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.Properties.Resources.resources
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.exe
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.pdb
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.FormInfor.resources
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.FormShowProduct.resources
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.Employeemanagement.resources
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.CustomerManagement.resources
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.ProductManagement.resources
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.ConfirmAccount.resources
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.FormPrintBill.resources
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.FormRevenue.resources
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.FormCofirmID.resources
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.FormSaleStaff.resources
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.ProductStatisticsForm.resources
+C:\Users\PC\OneDrive\Máy tính\ASM1_Database\ASM1_Database\obj\Debug\ASM1_Database.Customers.resources
